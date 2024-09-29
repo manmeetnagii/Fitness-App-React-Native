@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "newsappnative",
-    "slug": "newsappnative",
+    "name": "fitnessappnative",
+    "slug": "fitnessappnative",
     "version": "1.0.0",
     "orientation": "portrait",
     "scheme": "myapp",
@@ -20,7 +20,7 @@
       "adaptiveIcon": {
         "backgroundColor": "#ffffff"
       },
-      "package": "com.manmeetnagii.newsappnative"
+      "package": "com.manmeetnagii.fitnessappnative"
     },
     "web": {
       "bundler": "metro",
