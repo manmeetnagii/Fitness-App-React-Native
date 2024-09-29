@@ -25,7 +25,7 @@ The Fitness App is a React Native application built using Expo and styled with T
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/fitness-app.git
+   git clone https://github.com/manmeetnagii/Fitness-App-React-Native.git
    cd fitness-app
 2. **Install Dependencies**:
 
@@ -36,5 +36,5 @@ The Fitness App is a React Native application built using Expo and styled with T
    ```bash
    npm install -g expo-cli
 4. Run the app:
-  ```bash
-  expo start
+   ```bash
+   expo start
